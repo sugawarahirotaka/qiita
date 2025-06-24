@@ -6,7 +6,7 @@ tags:
   - ベイズ最適化
   - ガウス過程
 private: false
-updated_at: '2025-06-24T18:58:29+09:00'
+updated_at: '2025-06-24T21:22:06+09:00'
 id: 8ef20cb2b66e9ba27aee
 organization_url_name: null
 slide: false
